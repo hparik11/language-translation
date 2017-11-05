@@ -1,2 +1,1 @@
-# language-translation
-English to French Translator
+# English to French Translator
