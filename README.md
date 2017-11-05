@@ -4,7 +4,7 @@
 Neural machine translator for English2French translation.
 
 ## Overview
-This project is about translation from English to French language. That is accomplished by using TensorFlow library, more specifically it utilizes embedding with attention sequence-to-sequence model.
+This project is about translation from English to French language. That is accomplished by using TensorFlow library, more specifically it utilizes embedding with attention sequence-to-sequence RNN model. The dataset is text files of ~140,000 fairly simple sentences in English and in French.
 
 ### Files
 
