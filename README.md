@@ -11,4 +11,4 @@ This project is about translation from English to French language. That is accom
 
 Dataset
 
-(WMT10 French-English corpus)[http://www.statmt.org/wmt10/training-giga-fren.tar]
+[WMT10 French-English corpus](http://www.statmt.org/wmt10/training-giga-fren.tar)
